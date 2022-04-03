@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a implementation of shared transition concept in web through react.
+This project is an implementation of shared transition concept in web through react.
 
 ![](cats.gif)
 
